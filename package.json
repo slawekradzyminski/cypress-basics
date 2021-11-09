@@ -1,0 +1,22 @@
+{
+  "name": "cypress-basics",
+  "version": "1.0.0",
+  "description": "Basic Cypress tests for awesome-testing.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slawekradzyminski/cypress-basics.git"
+  },
+  "author": "Slawomir Radzyminski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slawekradzyminski/cypress-basics/issues"
+  },
+  "homepage": "https://github.com/slawekradzyminski/cypress-basics#readme",
+  "devDependencies": {
+    "cypress": "^8.7.0"
+  }
+}
