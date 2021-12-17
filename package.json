@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/slawekradzyminski/cypress-basics#readme",
   "devDependencies": {
-    "cypress": "^8.7.0"
+    "cypress": "^9.1.1"
   }
 }
